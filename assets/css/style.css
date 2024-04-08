@@ -3,12 +3,26 @@
 :root {
     --color-body: #b6cbce;
     --color-heading: #eef3db;
-    --color-base: #033f47;
-    --color-base2: #022a30;
-    --color-brand: #e0f780;
-    --color-brand2: #deff58;
+    --color-base: #A65644;
+    --color-base2: #012340;
+    --color-brand: #F2DE79;
+    --color-brand2: #D99D55;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
+}
+
+test {
+    color: #012340; 
+    color: #F2DE79; 
+    color: #F2C777; 
+    color: #D99D55; 
+    color: #A65644;
+
+    color: #19594D; 
+    color: #A3BF8F; 
+    color: #F29863; 
+    color: #F29B88; 
+    color: #F2766B; 
 }
 
 body {
